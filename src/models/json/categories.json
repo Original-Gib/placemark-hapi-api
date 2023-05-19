@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "categoryName": "pubs",
+      "userid": "9b6e4cd1-49b9-410c-8374-50bd1feee1fd",
+      "_id": "f9dbaf83-c4fd-4ac0-a4cd-fb5b9eb9bff0"
+    },
+    {
+      "categoryName": "Landmarks",
+      "userid": "string",
+      "plcemarks": [
+        {
+          "placemarkName": "The Spire",
+          "description": "Pointy Stick in Dublin",
+          "categoryid": "string",
+          "_id": "string",
+          "__v": 0
+        }
+      ],
+      "_id": "bc82c537-9768-47a2-a6cc-00fef84e1575"
+    },
+    {
+      "userid": "f20f4302-eaff-4ca2-9afd-0697cd14c2ad",
+      "categoryName": "landmarks",
+      "_id": "11ccda76-ceb5-4c55-9f63-9c1e8aa82b1f"
+    }
+  ]
+}

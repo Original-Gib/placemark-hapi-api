@@ -1,0 +1,35 @@
+
+<section class="section columns is-vcentered">
+     <div class="column has-text-centered">
+<table class="table is-fullwidth">
+  <thead>
+    <tr>
+      <th>Placemark</th>
+      <th>Description</th>
+      <th>Location</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+        <td>
+          {{placemark.placemarkName}}
+        </td>
+        <td>
+          {{placemark.description}}
+        </td>
+        <td>
+          {{placemark.location}}
+        </td>
+        <td>
+            <a href="/category/{{../category._id}}/deleteplacemark/{{_id}}" class="ui icon button">
+            <i class="fas fa-trash"></i>
+        </td>
+      </tr>
+  </tbody>
+</table>
+</div>
+  <div class="column">
+    {{> placemark-image }}
+  </div>
+</section>

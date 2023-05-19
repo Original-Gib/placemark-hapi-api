@@ -1,0 +1,29 @@
+{
+  "placemarks": [
+    {
+      "placemarkName": "Moes",
+      "description": "Tavern",
+      "_id": "018502d5-a47d-4fea-9854-4d2370d97a0a",
+      "categoryid": "f9dbaf83-c4fd-4ac0-a4cd-fb5b9eb9bff0"
+    },
+    {
+      "placemarkName": "Bushy Park",
+      "description": "park",
+      "_id": "228f4687-8f3c-4c3d-a5b0-5878d24cec71",
+      "categoryid": "f9dbaf83-c4fd-4ac0-a4cd-fb5b9eb9bff0"
+    },
+    {
+      "placemarkName": "The boat",
+      "description": "rivers",
+      "_id": "a5181f4c-bf24-4cc3-9a33-01e2f13c319e",
+      "categoryid": "f9dbaf83-c4fd-4ac0-a4cd-fb5b9eb9bff0"
+    },
+    {
+      "placemarkName": "whelans",
+      "description": "test",
+      "location": "12 12",
+      "_id": "cc483b81-9ca8-44b8-8af0-859e837c8ad2",
+      "categoryid": "11ccda76-ceb5-4c55-9f63-9c1e8aa82b1f"
+    }
+  ]
+}
